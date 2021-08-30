@@ -1,3 +1,5 @@
 install.packages('openair')
 install.packages('mgcv')
 install.packages('trend')
+install.packages('tidyverse')
+install.packages('ggplot')
